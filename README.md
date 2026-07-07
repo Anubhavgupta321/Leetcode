@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Anubhavgupta321/Leetcode/tree/master/0013-roman-to-integer) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Anubhavgupta321/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Anubhavgupta321/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Design
 |  |
 | ------- |

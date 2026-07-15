@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Anubhavgupta321/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Anubhavgupta321/Leetcode/tree/master/0048-rotate-image) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Anubhavgupta321/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Anubhavgupta321/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Anubhavgupta321/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Design
 |  |
@@ -177,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Anubhavgupta321/Leetcode/tree/master/0054-spiral-matrix) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Anubhavgupta321/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->

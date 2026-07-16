@@ -10,11 +10,19 @@ class Solution {
     }
 public:
     bool isHappy(int n) {
-        unordered_set<int> seen;
-        while(n!=1 && !seen.count(n)){
-            seen.insert(n);
-            n=getnext(n);
+        // unordered_set<int> seen;
+        // while(n!=1 && !seen.count(n)){
+        //     seen.insert(n);
+        //     n=getnext(n);
+        // }
+        // return n==1;
+
+        int slow=n;
+        int fast=getnext(n);
+        while(fast!=1 && fast!=slow){
+            slow=getnext(slow);
+            fast=getnext(getnext(fast));
         }
-        return n==1;
+        return fast==1;
     }
 };

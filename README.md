@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Anubhavgupta321/Leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anubhavgupta321/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Anubhavgupta321/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0228-summary-ranges](https://github.com/Anubhavgupta321/Leetcode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Anubhavgupta321/Leetcode/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/Anubhavgupta321/Leetcode/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/Anubhavgupta321/Leetcode/tree/master/0289-game-of-life) |

@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anubhavgupta321/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Anubhavgupta321/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Anubhavgupta321/Leetcode/tree/master/0135-candy) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anubhavgupta321/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -128,10 +129,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Anubhavgupta321/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Anubhavgupta321/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Anubhavgupta321/Leetcode/tree/master/0071-simplify-path) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anubhavgupta321/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Anubhavgupta321/Leetcode/tree/master/0042-trapping-rain-water) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anubhavgupta321/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## String
 |  |
 | ------- |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Anubhavgupta321/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Anubhavgupta321/Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Anubhavgupta321/Leetcode/tree/master/0392-is-subsequence) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anubhavgupta321/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Trie
 |  |
 | ------- |

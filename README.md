@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Anubhavgupta321/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Anubhavgupta321/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Anubhavgupta321/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Anubhavgupta321/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Anubhavgupta321/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Anubhavgupta321/Leetcode/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/Anubhavgupta321/Leetcode/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Anubhavgupta321/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Anubhavgupta321/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Anubhavgupta321/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Anubhavgupta321/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Anubhavgupta321/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Anubhavgupta321/Leetcode/tree/master/1291-sequential-digits) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Anubhavgupta321/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -255,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anubhavgupta321/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/Anubhavgupta321/Leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/0226-invert-binary-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Anubhavgupta321/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->

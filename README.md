@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anubhavgupta321/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anubhavgupta321/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/Anubhavgupta321/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Sliding Window
 |  |
 | ------- |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anubhavgupta321/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/Anubhavgupta321/Leetcode/tree/master/0112-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/Anubhavgupta321/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
@@ -260,9 +262,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anubhavgupta321/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/Anubhavgupta321/Leetcode/tree/master/0112-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/Anubhavgupta321/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/0226-invert-binary-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Anubhavgupta321/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Anubhavgupta321/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->

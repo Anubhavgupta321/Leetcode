@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Anubhavgupta321/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Anubhavgupta321/Leetcode/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Anubhavgupta321/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anubhavgupta321/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Anubhavgupta321/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Anubhavgupta321/Leetcode/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0383-ransom-note](https://github.com/Anubhavgupta321/Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Anubhavgupta321/Leetcode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Anubhavgupta321/Leetcode/tree/master/0567-permutation-in-string) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Anubhavgupta321/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Anubhavgupta321/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Anubhavgupta321/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/Anubhavgupta321/Leetcode/tree/master/0437-path-sum-iii) |
 | [0508-most-frequent-subtree-sum](https://github.com/Anubhavgupta321/Leetcode/tree/master/0508-most-frequent-subtree-sum) |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Anubhavgupta321/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Anubhavgupta321/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Anubhavgupta321/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/Anubhavgupta321/Leetcode/tree/master/0437-path-sum-iii) |
 | [0508-most-frequent-subtree-sum](https://github.com/Anubhavgupta321/Leetcode/tree/master/0508-most-frequent-subtree-sum) |

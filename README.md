@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Anubhavgupta321/Leetcode/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/Anubhavgupta321/Leetcode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Anubhavgupta321/Leetcode/tree/master/0567-permutation-in-string) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/Anubhavgupta321/Leetcode/tree/master/0777-swap-adjacent-in-lr-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Anubhavgupta321/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Anubhavgupta321/Leetcode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Anubhavgupta321/Leetcode/tree/master/0567-permutation-in-string) |
 | [0686-repeated-string-match](https://github.com/Anubhavgupta321/Leetcode/tree/master/0686-repeated-string-match) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/Anubhavgupta321/Leetcode/tree/master/0777-swap-adjacent-in-lr-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anubhavgupta321/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anubhavgupta321/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anubhavgupta321/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |

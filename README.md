@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Anubhavgupta321/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0486-predict-the-winner](https://github.com/Anubhavgupta321/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anubhavgupta321/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0654-maximum-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Anubhavgupta321/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1260-shift-2d-grid](https://github.com/Anubhavgupta321/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Anubhavgupta321/Leetcode/tree/master/1288-remove-covered-intervals) |
@@ -175,11 +176,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Anubhavgupta321/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Anubhavgupta321/Leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0654-maximum-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anubhavgupta321/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Anubhavgupta321/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0654-maximum-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anubhavgupta321/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## String
 |  |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anubhavgupta321/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/Anubhavgupta321/Leetcode/tree/master/0169-majority-element) |
+| [0654-maximum-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Anubhavgupta321/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Binary Search
 |  |
@@ -309,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Anubhavgupta321/Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Anubhavgupta321/Leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0654-maximum-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Anubhavgupta321/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Anubhavgupta321/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -394,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Anubhavgupta321/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Anubhavgupta321/Leetcode/tree/master/0563-binary-tree-tilt) |
+| [0654-maximum-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Anubhavgupta321/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Anubhavgupta321/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -446,4 +452,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Anubhavgupta321/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+## Cartesian Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->

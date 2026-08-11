@@ -18,11 +18,16 @@ public:
             st.insert(nums[j]);
             j++;
         }
-        int maxi=*max_element(nums.begin(),nums.end());
-        maxi=max(maxi,num);
-        for(int i=num;i<=maxi;i++){
-            if(!st.count(i)) return i;
+        // int maxi=*max_element(nums.begin(),nums.end());
+        // maxi=max(maxi,num);
+        // for(int i=num;i<=maxi;i++){
+        //     if(!st.count(i)) return i;
+        // }
+        // return maxi+1;
+
+        while(st.count(pref)){
+            pref++;
         }
-        return maxi+1;
+        return pref;
     }
 };

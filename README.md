@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Anubhavgupta321/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anubhavgupta321/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0654-maximum-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/0654-maximum-binary-tree) |
+| [0690-employee-importance](https://github.com/Anubhavgupta321/Leetcode/tree/master/0690-employee-importance) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Anubhavgupta321/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1260-shift-2d-grid](https://github.com/Anubhavgupta321/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Anubhavgupta321/Leetcode/tree/master/1288-remove-covered-intervals) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/Anubhavgupta321/Leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0567-permutation-in-string](https://github.com/Anubhavgupta321/Leetcode/tree/master/0567-permutation-in-string) |
 | [0652-find-duplicate-subtrees](https://github.com/Anubhavgupta321/Leetcode/tree/master/0652-find-duplicate-subtrees) |
+| [0690-employee-importance](https://github.com/Anubhavgupta321/Leetcode/tree/master/0690-employee-importance) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Anubhavgupta321/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Anubhavgupta321/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1331-rank-transform-of-an-array](https://github.com/Anubhavgupta321/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/Anubhavgupta321/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0654-maximum-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0690-employee-importance](https://github.com/Anubhavgupta321/Leetcode/tree/master/0690-employee-importance) |
 | [0814-binary-tree-pruning](https://github.com/Anubhavgupta321/Leetcode/tree/master/0814-binary-tree-pruning) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Anubhavgupta321/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/Anubhavgupta321/Leetcode/tree/master/0872-leaf-similar-trees) |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Anubhavgupta321/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0690-employee-importance](https://github.com/Anubhavgupta321/Leetcode/tree/master/0690-employee-importance) |
 | [0814-binary-tree-pruning](https://github.com/Anubhavgupta321/Leetcode/tree/master/0814-binary-tree-pruning) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Anubhavgupta321/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/Anubhavgupta321/Leetcode/tree/master/0872-leaf-similar-trees) |
@@ -390,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Anubhavgupta321/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/Anubhavgupta321/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/0623-add-one-row-to-tree) |
+| [0690-employee-importance](https://github.com/Anubhavgupta321/Leetcode/tree/master/0690-employee-importance) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Anubhavgupta321/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |

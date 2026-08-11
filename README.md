@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Anubhavgupta321/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0654-maximum-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/0654-maximum-binary-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/Anubhavgupta321/Leetcode/tree/master/0814-binary-tree-pruning) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Anubhavgupta321/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/Anubhavgupta321/Leetcode/tree/master/0872-leaf-similar-trees) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Anubhavgupta321/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Anubhavgupta321/Leetcode/tree/master/0652-find-duplicate-subtrees) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/Anubhavgupta321/Leetcode/tree/master/0814-binary-tree-pruning) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Anubhavgupta321/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/Anubhavgupta321/Leetcode/tree/master/0872-leaf-similar-trees) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Anubhavgupta321/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0654-maximum-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/0654-maximum-binary-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/Anubhavgupta321/Leetcode/tree/master/0814-binary-tree-pruning) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Anubhavgupta321/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/Anubhavgupta321/Leetcode/tree/master/0872-leaf-similar-trees) |

@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Anubhavgupta321/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Anubhavgupta321/Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Depth-First Search
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Anubhavgupta321/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/Anubhavgupta321/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Anubhavgupta321/Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Breadth-First Search
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Anubhavgupta321/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Anubhavgupta321/Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Bit Manipulation
@@ -487,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/Anubhavgupta321/Leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0563-binary-tree-tilt](https://github.com/Anubhavgupta321/Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Anubhavgupta321/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 ## Binary Lifting
 |  |
 | ------- |

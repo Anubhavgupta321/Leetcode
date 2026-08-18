@@ -8,7 +8,7 @@ public:
             for(int i=l;i<=r;i++){
                 farthest=max(farthest,i+nums[i]);
             }
-            l=r+1;
+            l=r;
             r=farthest;
             jumps++;
         }

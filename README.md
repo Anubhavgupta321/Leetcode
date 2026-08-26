@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Anubhavgupta321/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Anubhavgupta321/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Anubhavgupta321/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/Anubhavgupta321/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Anubhavgupta321/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Anubhavgupta321/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Anubhavgupta321/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Anubhavgupta321/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 ## Randomized
 |  |
 | ------- |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Anubhavgupta321/Leetcode/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Anubhavgupta321/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
@@ -443,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Anubhavgupta321/Leetcode/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Anubhavgupta321/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
@@ -472,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Anubhavgupta321/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -534,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Anubhavgupta321/Leetcode/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Anubhavgupta321/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Bit Manipulation

@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Anubhavgupta321/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Anubhavgupta321/Leetcode/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Anubhavgupta321/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1145-binary-tree-coloring-game](https://github.com/Anubhavgupta321/Leetcode/tree/master/1145-binary-tree-coloring-game) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Anubhavgupta321/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Anubhavgupta321/Leetcode/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Anubhavgupta321/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1145-binary-tree-coloring-game](https://github.com/Anubhavgupta321/Leetcode/tree/master/1145-binary-tree-coloring-game) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -538,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Anubhavgupta321/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Anubhavgupta321/Leetcode/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Anubhavgupta321/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1145-binary-tree-coloring-game](https://github.com/Anubhavgupta321/Leetcode/tree/master/1145-binary-tree-coloring-game) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |

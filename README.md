@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Anubhavgupta321/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anubhavgupta321/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0654-maximum-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/0654-maximum-binary-tree) |
+| [0658-find-k-closest-elements](https://github.com/Anubhavgupta321/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0690-employee-importance](https://github.com/Anubhavgupta321/Leetcode/tree/master/0690-employee-importance) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Anubhavgupta321/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anubhavgupta321/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Anubhavgupta321/Leetcode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Anubhavgupta321/Leetcode/tree/master/0274-h-index) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anubhavgupta321/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0658-find-k-closest-elements](https://github.com/Anubhavgupta321/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/Anubhavgupta321/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Anubhavgupta321/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Anubhavgupta321/Leetcode/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/Anubhavgupta321/Leetcode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Anubhavgupta321/Leetcode/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/Anubhavgupta321/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/Anubhavgupta321/Leetcode/tree/master/0777-swap-adjacent-in-lr-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Anubhavgupta321/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anubhavgupta321/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anubhavgupta321/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Anubhavgupta321/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0658-find-k-closest-elements](https://github.com/Anubhavgupta321/Leetcode/tree/master/0658-find-k-closest-elements) |
 ## Sliding Window
 |  |
 | ------- |
@@ -305,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Anubhavgupta321/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Anubhavgupta321/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/Anubhavgupta321/Leetcode/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/Anubhavgupta321/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Anubhavgupta321/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Anubhavgupta321/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anubhavgupta321/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -586,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Anubhavgupta321/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anubhavgupta321/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/Anubhavgupta321/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1046-last-stone-weight](https://github.com/Anubhavgupta321/Leetcode/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anubhavgupta321/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Binary Search Tree

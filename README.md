@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Anubhavgupta321/Leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anubhavgupta321/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Anubhavgupta321/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Anubhavgupta321/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Anubhavgupta321/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anubhavgupta321/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Anubhavgupta321/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Anubhavgupta321/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anubhavgupta321/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Anubhavgupta321/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Anubhavgupta321/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anubhavgupta321/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anubhavgupta321/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Anubhavgupta321/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Anubhavgupta321/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Anubhavgupta321/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Tree
 |  |
 | ------- |

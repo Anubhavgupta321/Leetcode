@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Anubhavgupta321/Leetcode/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/Anubhavgupta321/Leetcode/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/Anubhavgupta321/Leetcode/tree/master/0289-game-of-life) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Anubhavgupta321/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Anubhavgupta321/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0486-predict-the-winner](https://github.com/Anubhavgupta321/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anubhavgupta321/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -598,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Anubhavgupta321/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anubhavgupta321/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Anubhavgupta321/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0658-find-k-closest-elements](https://github.com/Anubhavgupta321/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Anubhavgupta321/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Anubhavgupta321/Leetcode/tree/master/1046-last-stone-weight) |

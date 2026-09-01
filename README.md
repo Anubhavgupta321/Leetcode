@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Anubhavgupta321/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0232-implement-queue-using-stacks](https://github.com/Anubhavgupta321/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Anubhavgupta321/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Anubhavgupta321/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Anubhavgupta321/Leetcode/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Anubhavgupta321/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/Anubhavgupta321/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0232-implement-queue-using-stacks](https://github.com/Anubhavgupta321/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Anubhavgupta321/Leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/0654-maximum-binary-tree) |
@@ -695,4 +697,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Anubhavgupta321/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Anubhavgupta321/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->

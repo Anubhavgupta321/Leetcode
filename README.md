@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Anubhavgupta321/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Anubhavgupta321/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Anubhavgupta321/Leetcode/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/Anubhavgupta321/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Anubhavgupta321/Leetcode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Anubhavgupta321/Leetcode/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Anubhavgupta321/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anubhavgupta321/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Anubhavgupta321/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0058-length-of-last-word](https://github.com/Anubhavgupta321/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Anubhavgupta321/Leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Anubhavgupta321/Leetcode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Anubhavgupta321/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Anubhavgupta321/Leetcode/tree/master/0125-valid-palindrome) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Anubhavgupta321/Leetcode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Anubhavgupta321/Leetcode/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/Anubhavgupta321/Leetcode/tree/master/0289-game-of-life) |
 | [1260-shift-2d-grid](https://github.com/Anubhavgupta321/Leetcode/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Anubhavgupta321/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -602,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Anubhavgupta321/Leetcode/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Anubhavgupta321/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Anubhavgupta321/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Anubhavgupta321/Leetcode/tree/master/0222-count-complete-tree-nodes) |

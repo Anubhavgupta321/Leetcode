@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Anubhavgupta321/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Anubhavgupta321/Leetcode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Anubhavgupta321/Leetcode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Anubhavgupta321/Leetcode/tree/master/0231-power-of-two) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Anubhavgupta321/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0486-predict-the-winner](https://github.com/Anubhavgupta321/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anubhavgupta321/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -625,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Anubhavgupta321/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Anubhavgupta321/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/Anubhavgupta321/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/Anubhavgupta321/Leetcode/tree/master/0231-power-of-two) |
 | [1386-cinema-seat-allocation](https://github.com/Anubhavgupta321/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Anubhavgupta321/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Anubhavgupta321/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -672,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Anubhavgupta321/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Anubhavgupta321/Leetcode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Anubhavgupta321/Leetcode/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/Anubhavgupta321/Leetcode/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |

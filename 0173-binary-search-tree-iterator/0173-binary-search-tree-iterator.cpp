@@ -10,7 +10,6 @@
  * };
  */
 class BSTIterator {
-private:
     stack<TreeNode*> st;
     void insert(TreeNode* node){
         st.push(node);

@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/Anubhavgupta321/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0658-find-k-closest-elements](https://github.com/Anubhavgupta321/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0690-employee-importance](https://github.com/Anubhavgupta321/Leetcode/tree/master/0690-employee-importance) |
+| [0835-image-overlap](https://github.com/Anubhavgupta321/Leetcode/tree/master/0835-image-overlap) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Anubhavgupta321/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0973-k-closest-points-to-origin](https://github.com/Anubhavgupta321/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anubhavgupta321/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Anubhavgupta321/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Anubhavgupta321/Leetcode/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/Anubhavgupta321/Leetcode/tree/master/0289-game-of-life) |
+| [0835-image-overlap](https://github.com/Anubhavgupta321/Leetcode/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Anubhavgupta321/Leetcode/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |

@@ -5,7 +5,7 @@ public:
         int m=matrix[0].size();
         int top=0,bottom=n-1,left=0,right=m-1;
         vector<int> ans;
-        while(left<=right && top<=bottom){
+        while(top<=bottom && left<=right){
             for(int i=left;i<=right;i++){
                 int ele=matrix[top][i];
                 ans.push_back(ele);

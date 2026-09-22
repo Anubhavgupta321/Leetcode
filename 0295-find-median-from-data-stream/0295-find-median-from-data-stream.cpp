@@ -7,23 +7,22 @@ public:
     }
     
     void addNum(int num) {
-        if(left.empty()){
+        if(left.empty() || num<=left.top()){
             left.push(num);
         }
         else{
-            if(num<=left.top()){
-                left.push(num);
-            }
-            else right.push(num);
+            right.push(num);
         }
         if(abs((int)left.size()-(int)right.size())>1){
             if(left.size()>right.size()){
-                right.push(left.top());
+                int x=left.top();
                 left.pop();
+                right.push(x);
             }
             else{
-                left.push(right.top());
+                int x=right.top();
                 right.pop();
+                left.push(x);
             }
         }
     }

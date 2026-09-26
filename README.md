@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/Anubhavgupta321/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anubhavgupta321/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Anubhavgupta321/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Anubhavgupta321/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Anubhavgupta321/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Anubhavgupta321/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Anubhavgupta321/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Anubhavgupta321/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Anubhavgupta321/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anubhavgupta321/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Anubhavgupta321/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Anubhavgupta321/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anubhavgupta321/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anubhavgupta321/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/Anubhavgupta321/Leetcode/tree/master/0686-repeated-string-match) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/Anubhavgupta321/Leetcode/tree/master/0777-swap-adjacent-in-lr-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anubhavgupta321/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Anubhavgupta321/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Anubhavgupta321/Leetcode/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Anubhavgupta321/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Anubhavgupta321/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |

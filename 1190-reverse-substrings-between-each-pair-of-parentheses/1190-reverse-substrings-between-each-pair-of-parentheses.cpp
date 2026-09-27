@@ -11,7 +11,7 @@ public:
             else if(s[i]==')'){
                 int l=st.top();
                 st.pop();
-                reverse(begin(res)+l,end(res));
+                reverse(res.begin()+l,res.end());
             }
             else{
                 res.push_back(s[i]);

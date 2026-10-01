@@ -7,18 +7,10 @@ public:
             if(c=='(' || c=='[' || c=='{') st.push(c);
             else{
                 if(st.empty()) return false;
-                if(c==')'){
-                    if(st.top()!='(') return false;
-                    st.pop();
+                if((st.top()=='(' && c!=')') || (st.top()=='[' && c!=']') || (st.top()=='{' && c!='}')){
+                    return false;
                 }
-                else if(c==']'){
-                    if(st.top()!='[') return false;
-                    st.pop();
-                }
-                else{
-                    if(st.top()!='{') return false;
-                    st.pop();
-                }
+                st.pop();
             }
         }
         return st.empty();

@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Anubhavgupta321/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0690-employee-importance](https://github.com/Anubhavgupta321/Leetcode/tree/master/0690-employee-importance) |
 | [0835-image-overlap](https://github.com/Anubhavgupta321/Leetcode/tree/master/0835-image-overlap) |
+| [0875-koko-eating-bananas](https://github.com/Anubhavgupta321/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Anubhavgupta321/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0973-k-closest-points-to-origin](https://github.com/Anubhavgupta321/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anubhavgupta321/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Anubhavgupta321/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anubhavgupta321/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/Anubhavgupta321/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0875-koko-eating-bananas](https://github.com/Anubhavgupta321/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anubhavgupta321/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sliding Window
 |  |
